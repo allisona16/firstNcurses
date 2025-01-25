@@ -1,0 +1,2 @@
+# firstNcurses
+experimenting with ncurses
